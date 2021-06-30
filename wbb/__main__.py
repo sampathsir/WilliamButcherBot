@@ -96,8 +96,8 @@ async def help_command(_, message):
                         url=f"t.me/{BOT_USERNAME}?start=help",
                     ),
                     InlineKeyboardButton(
-                        text="Repo 🛠",
-                        url="https://github.com/thehamkercat/WilliamButcherBot",
+                        text="Dᴇᴠ",
+                        url="https://t.me/ABHI_VILAN",
                     ),
                 ],
                 [
@@ -105,7 +105,7 @@ async def help_command(_, message):
                         text="System Stats 💻", callback_data="stats_callback"
                     ),
                     InlineKeyboardButton(
-                        text="Support 👨", url="t.me/WBBSupport"
+                        text="Support 👨", url="t.me/dengerousbots"
                     ),
                 ],
             ]
@@ -119,19 +119,19 @@ async def help_command(_, message):
                     text="Commands ❓", callback_data="bot_commands"
                 ),
                 InlineKeyboardButton(
-                    text="Repo 🛠",
-                    url="https://github.com/thehamkercat/WilliamButcherBot",
+                    text="Dᴇᴠ",
+                    url="https://t.me/ABHI_VILAN",
                 ),
             ],
             [
                 InlineKeyboardButton(
                     text="System Stats 🖥", callback_data="stats_callback"
                 ),
-                InlineKeyboardButton(text="Support 👨", url="t.me/WBBSupport"),
+                InlineKeyboardButton(text="Support ✊", url="t.me/dengerousbots"),
             ],
             [
                 InlineKeyboardButton(
-                    text="Add Me To Your Group 🎉",
+                    text="Add Me To Your Group 🇮🇳",
                     url=f"http://t.me/{BOT_USERNAME}?startgroup=new",
                 )
             ],
